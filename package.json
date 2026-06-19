@@ -1,0 +1,13 @@
+{
+  "name": "student-record-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student Record Tracker with student login, teacher task cards, term records, and approvals.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

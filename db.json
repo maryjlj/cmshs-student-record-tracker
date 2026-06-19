@@ -1,0 +1,119 @@
+{
+  "students": [
+    {
+      "id": "00567b4c7259047e",
+      "firstName": "Mary",
+      "lastName": "Jusayan",
+      "gradeSection": "11-ALS",
+      "email": "maryjljusayan@gmail.com",
+      "username": "maryjl.j",
+      "password": "123456",
+      "profilePhoto": "",
+      "createdAt": "2026-06-19T15:12:51.624Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "f33c02be12a574c8",
+      "name": "TECHDRAFT",
+      "section": "11-ALS",
+      "studentIds": [
+        "00567b4c7259047e"
+      ]
+    }
+  ],
+  "tasks": [],
+  "records": [
+    {
+      "id": "0e95dfb0b0cce872",
+      "studentId": "00567b4c7259047e",
+      "subjectId": "f33c02be12a574c8",
+      "taskId": "",
+      "term": "Term 1",
+      "type": "Written Works",
+      "title": "QUIZ 1",
+      "score": 5,
+      "maxScore": 10,
+      "status": "Approved",
+      "note": "",
+      "createdBy": "student",
+      "photos": [],
+      "createdAt": "2026-06-19T15:15:12.511Z",
+      "updatedAt": "2026-06-19T15:15:27.222Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "59f670dce7654662",
+      "type": "Registration",
+      "message": "Test Student registered and is waiting for class assignment.",
+      "createdAt": "2026-06-19T15:06:30.557Z"
+    },
+    {
+      "id": "df64bbb9edde92fd",
+      "type": "Record Submitted",
+      "message": "Test Student submitted Quiz 1 in Verification Class 1781881590419.",
+      "createdAt": "2026-06-19T15:06:30.598Z"
+    },
+    {
+      "id": "3896163b7cb77b72",
+      "type": "Registration",
+      "message": "Test Student registered and is waiting for class assignment.",
+      "createdAt": "2026-06-19T15:06:56.903Z"
+    },
+    {
+      "id": "72d291338f8a7710",
+      "type": "Record Submitted",
+      "message": "Test Student submitted Quiz 1 in Verification Class 1781881616838.",
+      "createdAt": "2026-06-19T15:06:56.928Z"
+    },
+    {
+      "id": "c6612c9dec0ae4aa",
+      "type": "Registration",
+      "message": "Mary Jusayan registered and is waiting for class assignment.",
+      "createdAt": "2026-06-19T15:12:51.624Z"
+    },
+    {
+      "id": "c5b5e49e64e19368",
+      "type": "Record Submitted",
+      "message": "Mary Jusayan submitted QUIZ 1 in TECHDRAFT.",
+      "createdAt": "2026-06-19T15:15:12.511Z"
+    },
+    {
+      "id": "781679342e3b6dca",
+      "type": "Registration",
+      "message": "Cute Learner registered and is waiting for class assignment.",
+      "createdAt": "2026-06-19T15:28:37.182Z"
+    },
+    {
+      "id": "7c2d34cfc79f1649",
+      "type": "Task Created",
+      "message": "Card Task was assigned to Cute Test Class 1781882917060 (11-ALS) for Term 2.",
+      "createdAt": "2026-06-19T15:28:37.224Z"
+    },
+    {
+      "id": "144efbe7bcd03cdd",
+      "type": "Record Submitted",
+      "message": "Cute Learner submitted Card Task in Cute Test Class 1781882917060.",
+      "createdAt": "2026-06-19T15:28:37.231Z"
+    },
+    {
+      "id": "2ed1076b737e193d",
+      "type": "Registration",
+      "message": "Photo Learner registered and is waiting for class assignment.",
+      "createdAt": "2026-06-19T15:34:25.348Z"
+    },
+    {
+      "id": "015508a6d68093e9",
+      "type": "Task Created",
+      "message": "Photo Output was assigned to Portfolio Test 1781883265227 (11-ALS) for Term 3.",
+      "createdAt": "2026-06-19T15:34:25.395Z"
+    },
+    {
+      "id": "22d4ca8f7b4247e2",
+      "type": "Record Submitted",
+      "message": "Photo Learner submitted Photo Output in Portfolio Test 1781883265227.",
+      "createdAt": "2026-06-19T15:34:25.401Z"
+    }
+  ]
+}
